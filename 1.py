@@ -1,1 +1,5 @@
-print('5e457')
+password = input('Введите пароль: ')
+if password == 'пароль':
+    print('Проходи!')
+else:
+    print('Доступ запрещён!')
