@@ -49,4 +49,3 @@ elif length == 'Нет' or length == 'нет':
                     print('Ирландский волкодав')
                 elif white == 'Нет' or white == 'нет':
                     print('Ньюфаундленд')
-
