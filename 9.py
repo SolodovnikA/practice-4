@@ -1,4 +1,4 @@
-length = input('Собака короткошёрстной породы? ')
+length = input('Собака корoткошёрстной породы? ')
 if length == 'Да' or length == 'да':
     height1 = input('Рост собаки менее 50 см? ')
     if height1 == 'Да' or height1 == 'да':
